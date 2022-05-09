@@ -1,2 +1,3 @@
-THIS IS MEMZ TROJAN 
-Don't run Destructive
+THIS IS MEMZ TROJAN !!!
+
+Don't run Destructive!
